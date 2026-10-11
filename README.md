@@ -5,6 +5,7 @@
 ## 專案技術
 - 前端框架：React
 - CSS框架：Tailwindcss
+- API: RESTful API
 - 後端框架：FastAPI
 
 ## 系統架構
@@ -70,3 +71,5 @@
     - 新增患者
     - 選擇患者開始看診
     - 結束看診
+## API
+![alt text](image.png)
